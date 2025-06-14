@@ -9,4 +9,5 @@ This project detects moving objects using Python. It utilizes OpenCV to identify
 - Saves detected frames for further analysis
 
 Demo video of this project:
-Google drive link: https://drive.google.com/file/d/1O1e6823awbg_OX45uun0EWdr9cZkdgyB/view?usp=sharing
+Google Drive link: 
+https://drive.google.com/file/d/1O1e6823awbg_OX45uun0EWdr9cZkdgyB/view?usp=sharing
